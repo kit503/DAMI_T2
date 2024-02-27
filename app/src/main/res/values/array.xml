@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spnTipoDocente">
+        <item>---------</item>
+        <item>Tiempo Completo</item>
+        <item>Tiempo Parcial</item>
+    </string-array>
+
+</resources>

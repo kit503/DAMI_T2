@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EX2_T5XN_DeLaCruzAlfaro_ManuelAlejandro</string>
+    <string name="lbl_title_listado_carros">Listado de Carros</string>
+    <string name="lbl_marca_legend">Marca</string>
+    <string name="lbl_modelo_legend">Modelo</string>
+    <string name="lbl_title_agregar_nuevo_carro">Agregar Carro</string>
+    <string name="lbl_title_detalle_carro">Detalle de Carro</string>
+    <string name="btn_guardar_add_carro">Guardar</string>
+    <string name="btn_cancelar_add_carro">Cancelar</string>
+    <string name="lbl_marca">Marca</string>
+    <string name="lbl_modelo">Modelo</string>
+    <string name="lbl_marca_carro">Marca</string>
+    <string name="lbl_id_carro">ID</string>
+    <string name="lbl_modelo_carro">Modelo</string>
+    <string name="lbl_anio_carro">Año</string>
+    <string name="lbl_asientos_carro">Asientos</string>
+    <string name="lbl_color_carro">Color</string>
+
+</resources>

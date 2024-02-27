@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/layout_loading_layout.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/layout/loading_layout.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/layout_activity_detail_carro.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/layout/activity_detail_carro.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/xml_network_security_config.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/layout_activity_lista_carro.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/layout/activity_lista_carro.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/layout_layout_carro.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/layout/layout_carro.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/layout_activity_add_carro.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/layout/activity_add_carro.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "pe.cibertec.dami.recyclerapplication.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "pe.cibertec.dami.recyclerapplication.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
