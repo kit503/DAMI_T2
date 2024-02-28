@@ -1,4 +1,4 @@
-#Tue Feb 27 17:08:01 PET 2024
+#Tue Feb 27 17:37:10 PET 2024
 base.0=D\:\\Documentos\\Manuel\\Cibertec\\2024-1\\Desarrollo de Aplicaciones Moviles 1\\Examenes\\Android_T2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\Documentos\\Manuel\\Cibertec\\2024-1\\Desarrollo de Aplicaciones Moviles 1\\Examenes\\Android_T2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\Documentos\\Manuel\\Cibertec\\2024-1\\Desarrollo de Aplicaciones Moviles 1\\Examenes\\Android_T2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
